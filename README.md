@@ -1,178 +1,140 @@
-🚀 WORK FORGE – Project Management System
+# WORK FORGE – Project Management System
+
+WORK FORGE is a full-stack *Project Management Web Application* designed to help teams plan, manage, and track projects efficiently. It provides a modern UI, role-based workflows, and a scalable backend architecture.
+
+---
+
+## 🚀 Features
+
+* 👤 User authentication & role management
+* 📋 Create and manage projects
+* ✅ Task assignment and tracking
+* 📊 Project progress overview
+* 🎨 Responsive UI with Tailwind CSS
+* ⚡ Fast frontend build using Vite
+* 🧩 Modular backend structure
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+* React (JSX)
+* Vite
+* Tailwind CSS
+* JavaScript (ES6+)
+
+### Backend
+
+* Node.js
+* Express.js (assumed from structure)
+
+### Tools & Config
+
+* PostCSS
+* Tailwind Config
+* npm
+
+---
+
+## 📁 Project Structure
 
 
-WORK FORGE is a Full-Stack Project Management Web Application built to help teams efficiently plan, manage, and track projects.
-
-It combines a modern UI, role-based workflow management, and a scalable backend architecture to deliver a complete team productivity solution.
-
-📌 Overview
-
-WORK FORGE enables teams to:
-
-Organize and manage multiple projects
-
-Assign and track tasks
-
-Monitor progress visually
-
-Manage users with role-based access
-
-Designed using modern development tools for performance, scalability, and clean architecture.
-
-✨ Features
-
-👤 User Authentication & Role Management
-
-📋 Create, Edit & Manage Projects
-
-✅ Task Assignment & Status Tracking
-
-📊 Project Progress Overview Dashboard
-
-🎨 Fully Responsive UI (Tailwind CSS)
-
-⚡ Lightning Fast Development (Vite)
-
-🧩 Modular Backend Architecture
-
-🛠️ Tech Stack
-🔹 Frontend
-
-React (JSX)
-
-Vite
-
-Tailwind CSS
-
-JavaScript (ES6+)
-
-🔹 Backend
-
-Node.js
-
-Express.js
-
-🔹 Tools & Configuration
-
-PostCSS
-
-npm
-
-Tailwind Config
-
-📁 Project Structure
 Project-Management-WORK-FORGE-
 │
-├── backend/                     # Backend server code
-│   ├── routes/
-│   ├── controllers/
-│   ├── models/
-│   └── server.js
-│
-├── src/                         # Frontend source code
-│   ├── components/
-│   ├── pages/
-│   ├── App.jsx
-│   └── main.jsx
-│
-├── public/
-├── index.html
-├── package.json
-├── package-lock.json
-├── vite.config.js
-├── tailwind.config.js
-├── postcss.config.js
-└── Project Work Forge user manual.docx
-
-⚙️ Installation & Setup
-✅ Prerequisites
-
-Node.js (v16 or higher recommended)
-
-npm
-🔹 1️⃣ Clone the Repository
-git clone https://github.com/Jeevan4125/Project-Management-WORK-FORGE-.git
-
-🔹 2️⃣ Navigate to Project Folder
-cd Project-Management-WORK-FORGE-
-
-🔹 3️⃣ Install Frontend Dependencies
-npm install
-
-🔹 4️⃣ Run Frontend
-npm run dev
+├── backend/               # Backend server code
+├── src/                   # Frontend source code (React components)
+├── node_modules/          # Project dependencies
+├── index.html             # Main HTML entry point
+├── package.json           # Dependencies & scripts
+├── package-lock.json      # Dependency lock file
+├── vite.config.js         # Vite configuration
+├── tailwind.config.js     # Tailwind CSS configuration
+├── postcss.config.js      # PostCSS configuration
+└── Project Work Forge user manual.docx  # User manual
 
 
-Frontend runs on:
+---
 
-http://localhost:5173
+## ⚙️ Installation & Setup
 
-🔹 5️⃣ Run Backend
-cd backend
-npm install
-npm start
+### Prerequisites
 
+* Node.js (v16 or higher recommended)
+* npm
 
-Backend runs on:
+### Steps
 
-http://localhost:5000
+1. *Clone the repository*
 
-🖼️ Screenshots
+   bash
+   git clone https://github.com/Jeevan4125/Project-Management-WORK-FORGE-.git
+   
 
-You can add screenshots like this:
+2. *Navigate to the project directory*
 
-## 🖼️ Screenshots
+   bash
+   cd Project-Management-WORK-FORGE-
+   
 
-![Dashboard](./screenshots/dashboard.png)
-![Project Page](./screenshots/project.png)
+3. *Install dependencies*
 
+   bash
+   npm install
+   
 
-Create a folder called screenshots and place your images there.
+4. *Run the frontend*
 
-🚀 Future Enhancements
+   bash
+   npm run dev
+   
 
-🔐 JWT-Based Authentication
+5. *Run the backend* (if applicable)
 
-📈 Advanced Analytics Dashboard
+   bash
+   cd backend
+   npm install
+   npm start
+   
 
-🔔 Real-Time Notifications
+---
 
-🗂️ File Upload & Attachments
+## 📖 Documentation
 
-🌐 Docker & Cloud Deployment
+* Refer to *Project Work Forge user manual.docx* for detailed usage instructions.
 
-📊 Team Performance Metrics
+---
 
-📱 Mobile Responsive Optimization
+## 📌 Future Enhancements
 
-🌍 Deployment Ideas
+* 🔐 JWT-based authentication
+* 📈 Analytics dashboard
+* 🔔 Notifications system
+* 🗂️ File uploads
+* 🌐 Deployment (Docker / Cloud)
 
-Frontend → Vercel / Netlify
+---
 
-Backend → Render / Railway
-
-Full App → Docker + Cloud
-
-🤝 Contributing
+## 🤝 Contributing
 
 Contributions are welcome!
 
-Fork the repository
+1. Fork the repository
+2. Create a new branch 
+3. Commit your changes
+4. Push to the branch
+5. Open a Pull Request
 
-Create a new branch
+---
 
-Commit your changes
+## 👨‍💻 Author
 
-Push to your branch
+*ASIL JAMESHA T*
+GitHub: [[https://github.com/Asil081205](https://github.com/Asil081205)]
 
-Open a Pull Request
+---
 
-👨‍💻 Author
+## 📄 License
 
-Jeevan Kumar
-GitHub: https://github.com/Asil081205
-
-📄 License
-
-This project is developed for educational and learning purposes.
-An open-source license can be added in future releases.
+This project is for *educational and learning purposes*. License can be added later if required.
