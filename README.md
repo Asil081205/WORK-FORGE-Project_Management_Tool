@@ -40,19 +40,20 @@ WORK FORGE is a full-stack *Project Management Web Application* designed to help
 
 ## 📁 Project Structure
 
-
+```
 Project-Management-WORK-FORGE-
 │
-├── backend/               # Backend server code
-├── src/                   # Frontend source code (React components)
-├── node_modules/          # Project dependencies
-├── index.html             # Main HTML entry point
-├── package.json           # Dependencies & scripts
-├── package-lock.json      # Dependency lock file
-├── vite.config.js         # Vite configuration
-├── tailwind.config.js     # Tailwind CSS configuration
-├── postcss.config.js      # PostCSS configuration
-└── Project Work Forge user manual.docx  # User manual
+├── backend/                     # Backend server code
+├── src/                         # Frontend source code (React components)
+├── node_modules/                # Project dependencies
+├── index.html                   # Main HTML entry point
+├── package.json                 # Dependencies & scripts
+├── package-lock.json            # Dependency lock file
+├── vite.config.js               # Vite configuration
+├── tailwind.config.js           # Tailwind CSS configuration
+├── postcss.config.js            # PostCSS configuration
+└── Project Work Forge user manual.docx
+```
 
 
 ---
