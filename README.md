@@ -1,23 +1,19 @@
-🚀 WORK FORGE – Project Management System
+##🚀 WORK FORGE – Project Management System
 
 WORK FORGE is a full-stack Project Management Web Application built to help teams efficiently plan, manage, and track projects.
 It features a modern UI, role-based workflows, and a scalable backend architecture.
 
-📌 Overview
+##📌 Overview
 
 WORK FORGE enables teams to:
 
 Organize projects
-
 Assign and track tasks
-
 Monitor progress
-
 Manage users with role-based access
-
 Designed with performance and scalability in mind, it uses a modern frontend stack powered by Vite + React and a modular backend architecture using Node.js.
 
-🚀 Features
+##🚀 Features
 
 👤 User Authentication & Role Management
 
@@ -33,23 +29,17 @@ Designed with performance and scalability in mind, it uses a modern frontend sta
 
 🧩 Modular Backend Structure
 
-🛠️ Tech Stack
+##🛠️ Tech Stack
+
 🔹 Frontend
-
 ⚛️ React (JSX)
-
 ⚡ Vite
-
 🎨 Tailwind CSS
-
 🟨 JavaScript (ES6+)
 
 🔹 Backend
-
 🟢 Node.js
-
 🚂 Express.js
-
 🔹 Tools & Configuration
 
 PostCSS
@@ -58,7 +48,7 @@ Tailwind Config
 
 npm
 
-📁 Project Structure
+##📁 Project Structure
 Project-Management-WORK-FORGE-
 │
 ├── backend/                     # Backend server code
@@ -73,7 +63,7 @@ Project-Management-WORK-FORGE-
 ├── z.jsx / k.js                 # JS / JSX logic files
 └── Project Work Forge user manual.docx  # User manual
 
-⚙️ Installation & Setup
+##⚙️ Installation & Setup
 ✅ Prerequisites
 
 Node.js (v16 or higher recommended)
@@ -107,46 +97,36 @@ Backend will typically run on:
 
 http://localhost:5000
 
-📖 Documentation
+##📖 Documentation
 
 Refer to:
 📄 Project Work Forge user manual.docx
 for detailed usage instructions and workflow guidance.
 
-📌 Future Enhancements
+##📌 Future Enhancements
 
 🔐 JWT-based Authentication
-
 📈 Advanced Analytics Dashboard
-
 🔔 Real-time Notifications
-
 🗂️ File Upload & Attachments
-
 🌐 Cloud / Docker Deployment
-
 📊 Team Performance Insights
-
 🤝 Contributing
 
 Contributions are welcome!
 
 Fork the repository
-
 Create a new branch
-
 Commit your changes
-
 Push to your branch
-
 Open a Pull Request
 
-👨‍💻 Author
+##👨‍💻 Author
 
 Jeevan Kumar
 GitHub: https://github.com/Asil081205
 
-📄 License
+##📄 License
 
 This project is developed for educational and learning purposes.
 A proper open-source license can be added in future releases.
